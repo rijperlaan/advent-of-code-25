@@ -3,7 +3,7 @@ package org.example.day1
 import org.example.readInput
 
 fun main() {
-    println("--- Day1 Part 1 ---")
+    println("--- Day 1 Part 1 ---")
 
     val inputs = readInput("day1/input.txt")
 
