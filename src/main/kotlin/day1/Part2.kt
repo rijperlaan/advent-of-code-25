@@ -5,7 +5,7 @@ import org.example.readInput
 fun main() {
     println("--- Day1 Part2 ---")
 
-    val inputs = readInput("day1/input.txt");
+    val inputs = readInput("day1/input.txt")
 
     var currentDial = 50
     var zeros = 0

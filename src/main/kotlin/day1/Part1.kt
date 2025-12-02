@@ -1,12 +1,11 @@
 package org.example.day1
 
 import org.example.readInput
-import kotlin.math.abs
 
 fun main() {
     println("--- Day1 Part 1 ---")
 
-    val inputs = readInput("day1/input.txt");
+    val inputs = readInput("day1/input.txt")
 
     var dial = 50
     var zeros = 0
