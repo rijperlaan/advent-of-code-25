@@ -14,8 +14,6 @@ fun main() {
     var ranges = rangeArrays.map { it[0].toLong()..it[1].toLong() }
     val combinedRanges = ranges.toMutableSet()
 
-    println("ranges = ${ranges}")
-
     // Combine all the ranges that overlap
     do {
         ranges = combinedRanges.toList()
