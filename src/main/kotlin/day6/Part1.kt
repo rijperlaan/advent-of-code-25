@@ -3,7 +3,7 @@ package org.example.day6
 import org.example.readInput
 
 fun main() {
-    println("--- Day 5 Part 1 ---")
+    println("--- Day 6 Part 1 ---")
 
     val inputs = readInput("day6/input.txt")
     var total = 0L
